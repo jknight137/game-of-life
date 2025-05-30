@@ -269,3 +269,57 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 *.meta
+Game of Life/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+Game of Life/Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+Game of Life/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+Game of Life/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+Game of Life/Assets/TextMesh Pro/Resources/TMP Settings.asset
+Game of Life/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+Game of Life/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+Game of Life/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+Game of Life/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+Game of Life/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+Game of Life/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+Game of Life/Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl
+Game of Life/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+Game of Life/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+Game of Life/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+Game of Life/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+Game of Life/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+Game of Life/Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph
+Game of Life/Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph
+Game of Life/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+Game of Life/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+Game of Life/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+Game of Life/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader
+Game of Life/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+Game of Life/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+Game of Life/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+Game of Life/Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph
+Game of Life/Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph
+Game of Life/Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+Game of Life/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+Game of Life/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+Game of Life/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+Game of Life/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+Game of Life/Assets/TextMesh Pro/Shaders/TMPro.cginc
+Game of Life/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+Game of Life/Assets/TextMesh Pro/Sprites/EmojiOne.json
+Game of Life/Assets/TextMesh Pro/Sprites/EmojiOne.png
+Game of Life/Library/AnnotationManager
+Game of Life/Library/ArtifactDB
+Game of Life/Library/ArtifactDB-lock
+Game of Life/Library/BuildPlayer.prefs
+Game of Life/Library/BuildProfileContext.asset
+Game of Life/Library/BuildSettings.asset
+Game of Life/Library/EditorInstance.json
+Game of Life/Library/EditorOnlyScriptingSettings.json
+Game of Life/Library/EditorOnlyVirtualTextureState.json
+Game of Life/Library/EditorSnapSettings.asset
+Game of Life/Library/EditorUserBuildSettings.asset
+Game of Life/Library/InspectorExpandedItems.asset
+Game of Life/Library/LastSceneManagerSetup.txt
+Game of Life/Library/LibraryFormatVersion.txt
+Game of Life/Library/MonoManager.asset
+Game of Life/Library/APIUpdater/project-dependencies.graph
+Game of Life/Library/Artifacts/*
