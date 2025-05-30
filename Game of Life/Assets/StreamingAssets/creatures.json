@@ -1,0 +1,3602 @@
+[
+  {
+    "name": "Predlusron-000F",
+    "species_id": "Predlusron",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#FFD700",
+    "pattern": "solid",
+    "limb_count": 8,
+    "stats": {
+      "health": 312,
+      "speed": 0.39311404572735037,
+      "strength": 68,
+      "max_age": 25,
+      "hunger": 22
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Predlusron-001F",
+    "species_id": "Predlusron",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#FF8C00",
+    "pattern": "solid",
+    "limb_count": 7,
+    "stats": {
+      "health": 100,
+      "speed": 0.4556316592838551,
+      "strength": 116,
+      "max_age": 38,
+      "hunger": 7
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predlusron-002M",
+    "species_id": "Predlusron",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#FFD700",
+    "pattern": "spots",
+    "limb_count": 5,
+    "stats": {
+      "health": 80,
+      "speed": 0.6201809671168826,
+      "strength": 22,
+      "max_age": 37,
+      "hunger": 25
+    },
+    "biome": "ice_cap"
+  },
+  {
+    "name": "Predlusron-003M",
+    "species_id": "Predlusron",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#FF8C00",
+    "pattern": "bands",
+    "limb_count": 3,
+    "stats": {
+      "health": 272,
+      "speed": 0.259973913392139,
+      "strength": 100,
+      "max_age": 55,
+      "hunger": 12
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Predlusron-004F",
+    "species_id": "Predlusron",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#FF8C00",
+    "pattern": "solid",
+    "limb_count": 8,
+    "stats": {
+      "health": 60,
+      "speed": 1.3023295740446579,
+      "strength": 7,
+      "max_age": 33,
+      "hunger": 23
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Predlusron-005F",
+    "species_id": "Predlusron",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#FF1493",
+    "pattern": "bands",
+    "limb_count": 5,
+    "stats": {
+      "health": 38,
+      "speed": 1.029760332996105,
+      "strength": 12,
+      "max_age": 55,
+      "hunger": 22
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Predlusron-006F",
+    "species_id": "Predlusron",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#FF1493",
+    "pattern": "stripes",
+    "limb_count": 4,
+    "stats": {
+      "health": 148,
+      "speed": 0.37976314683823226,
+      "strength": 28,
+      "max_age": 23,
+      "hunger": 8
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predlusron-007M",
+    "species_id": "Predlusron",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#FF1493",
+    "pattern": "solid",
+    "limb_count": 6,
+    "stats": {
+      "health": 276,
+      "speed": 0.3158096432532684,
+      "strength": 76,
+      "max_age": 53,
+      "hunger": 13
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Predlusron-008M",
+    "species_id": "Predlusron",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#FF3A3A",
+    "pattern": "mottled",
+    "limb_count": 7,
+    "stats": {
+      "health": 216,
+      "speed": 0.509299366328723,
+      "strength": 60,
+      "max_age": 27,
+      "hunger": 14
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Predlusron-009M",
+    "species_id": "Predlusron",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#FF3A3A",
+    "pattern": "spots",
+    "limb_count": 7,
+    "stats": {
+      "health": 168,
+      "speed": 1.0119621990520646,
+      "strength": 42,
+      "max_age": 26,
+      "hunger": 25
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Predzarvik-000M",
+    "species_id": "Predzarvik",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#FFE156",
+    "pattern": "stripes",
+    "limb_count": 8,
+    "stats": {
+      "health": 89,
+      "speed": 2.4069994953070055,
+      "strength": 21,
+      "max_age": 20,
+      "hunger": 24
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Predzarvik-001F",
+    "species_id": "Predzarvik",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#FF1E56",
+    "pattern": "spots",
+    "limb_count": 4,
+    "stats": {
+      "health": 50,
+      "speed": 0.6158503329883751,
+      "strength": 23,
+      "max_age": 25,
+      "hunger": 7
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Predzarvik-002F",
+    "species_id": "Predzarvik",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#FFCD38",
+    "pattern": "stripes",
+    "limb_count": 8,
+    "stats": {
+      "health": 36,
+      "speed": 1.8195016454947348,
+      "strength": 22,
+      "max_age": 30,
+      "hunger": 13
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Predzarvik-003F",
+    "species_id": "Predzarvik",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#FFCD38",
+    "pattern": "stripes",
+    "limb_count": 8,
+    "stats": {
+      "health": 59,
+      "speed": 1.2979845999948583,
+      "strength": 26,
+      "max_age": 43,
+      "hunger": 19
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Predzarvik-004F",
+    "species_id": "Predzarvik",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#FFAC41",
+    "pattern": "solid",
+    "limb_count": 3,
+    "stats": {
+      "health": 63,
+      "speed": 0.5420685200141178,
+      "strength": 22,
+      "max_age": 34,
+      "hunger": 23
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predzarvik-005M",
+    "species_id": "Predzarvik",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#FF1E56",
+    "pattern": "solid",
+    "limb_count": 3,
+    "stats": {
+      "health": 24,
+      "speed": 2.219270800507493,
+      "strength": 7,
+      "max_age": 52,
+      "hunger": 12
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Predzarvik-006F",
+    "species_id": "Predzarvik",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#FFCD38",
+    "pattern": "mottled",
+    "limb_count": 3,
+    "stats": {
+      "health": 93,
+      "speed": 1.4453420526235883,
+      "strength": 30,
+      "max_age": 50,
+      "hunger": 18
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predzarvik-007M",
+    "species_id": "Predzarvik",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#FF6263",
+    "pattern": "bands",
+    "limb_count": 4,
+    "stats": {
+      "health": 72,
+      "speed": 1.43404933607335,
+      "strength": 28,
+      "max_age": 23,
+      "hunger": 25
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Predzarvik-008M",
+    "species_id": "Predzarvik",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#FF6263",
+    "pattern": "spots",
+    "limb_count": 7,
+    "stats": {
+      "health": 33,
+      "speed": 0.9973126678405713,
+      "strength": 11,
+      "max_age": 54,
+      "hunger": 19
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predzarvik-009F",
+    "species_id": "Predzarvik",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#FFE156",
+    "pattern": "stripes",
+    "limb_count": 5,
+    "stats": {
+      "health": 29,
+      "speed": 1.386261490106914,
+      "strength": 22,
+      "max_age": 26,
+      "hunger": 6
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Predvikdra-000M",
+    "species_id": "Predvikdra",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#FFC300",
+    "pattern": "bands",
+    "limb_count": 3,
+    "stats": {
+      "health": 82,
+      "speed": 1.462716835942079,
+      "strength": 17,
+      "max_age": 23,
+      "hunger": 10
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Predvikdra-001M",
+    "species_id": "Predvikdra",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#FF5733",
+    "pattern": "bands",
+    "limb_count": 8,
+    "stats": {
+      "health": 112,
+      "speed": 0.6730074859901629,
+      "strength": 56,
+      "max_age": 55,
+      "hunger": 20
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predvikdra-002M",
+    "species_id": "Predvikdra",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#FFC300",
+    "pattern": "mottled",
+    "limb_count": 2,
+    "stats": {
+      "health": 178,
+      "speed": 0.3109575714765158,
+      "strength": 30,
+      "max_age": 23,
+      "hunger": 6
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Predvikdra-003F",
+    "species_id": "Predvikdra",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#900C3F",
+    "pattern": "solid",
+    "limb_count": 3,
+    "stats": {
+      "health": 340,
+      "speed": 0.16505573262029344,
+      "strength": 40,
+      "max_age": 24,
+      "hunger": 24
+    },
+    "biome": "ice_cap"
+  },
+  {
+    "name": "Predvikdra-004M",
+    "species_id": "Predvikdra",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#FF2079",
+    "pattern": "stripes",
+    "limb_count": 6,
+    "stats": {
+      "health": 188,
+      "speed": 0.8445191535334412,
+      "strength": 48,
+      "max_age": 25,
+      "hunger": 18
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Predvikdra-005F",
+    "species_id": "Predvikdra",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#FFC300",
+    "pattern": "spots",
+    "limb_count": 7,
+    "stats": {
+      "health": 100,
+      "speed": 0.5156145125313538,
+      "strength": 18,
+      "max_age": 39,
+      "hunger": 19
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Predvikdra-006M",
+    "species_id": "Predvikdra",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#C70039",
+    "pattern": "mottled",
+    "limb_count": 6,
+    "stats": {
+      "health": 32,
+      "speed": 0.646521442199266,
+      "strength": 11,
+      "max_age": 52,
+      "hunger": 13
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predvikdra-007F",
+    "species_id": "Predvikdra",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#FFC300",
+    "pattern": "spots",
+    "limb_count": 4,
+    "stats": {
+      "health": 40,
+      "speed": 1.3763691460154197,
+      "strength": 22,
+      "max_age": 39,
+      "hunger": 24
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Predvikdra-008M",
+    "species_id": "Predvikdra",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#900C3F",
+    "pattern": "solid",
+    "limb_count": 4,
+    "stats": {
+      "health": 148,
+      "speed": 0.25723296074356383,
+      "strength": 32,
+      "max_age": 55,
+      "hunger": 9
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Predvikdra-009F",
+    "species_id": "Predvikdra",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#FFC300",
+    "pattern": "spots",
+    "limb_count": 7,
+    "stats": {
+      "health": 184,
+      "speed": 0.46874856440066526,
+      "strength": 52,
+      "max_age": 52,
+      "hunger": 20
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Predluslak-000M",
+    "species_id": "Predluslak",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#F4845F",
+    "pattern": "spots",
+    "limb_count": 8,
+    "stats": {
+      "health": 25,
+      "speed": 0.5070913781755646,
+      "strength": 29,
+      "max_age": 28,
+      "hunger": 25
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Predluslak-001M",
+    "species_id": "Predluslak",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#F4845F",
+    "pattern": "bands",
+    "limb_count": 6,
+    "stats": {
+      "health": 364,
+      "speed": 0.12983484980416998,
+      "strength": 28,
+      "max_age": 29,
+      "hunger": 22
+    },
+    "biome": "ice_cap"
+  },
+  {
+    "name": "Predluslak-002F",
+    "species_id": "Predluslak",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#C9184A",
+    "pattern": "bands",
+    "limb_count": 3,
+    "stats": {
+      "health": 144,
+      "speed": 0.14591442908442892,
+      "strength": 64,
+      "max_age": 22,
+      "hunger": 16
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predluslak-003M",
+    "species_id": "Predluslak",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#FF3031",
+    "pattern": "mottled",
+    "limb_count": 4,
+    "stats": {
+      "health": 288,
+      "speed": 0.6119185113186445,
+      "strength": 112,
+      "max_age": 29,
+      "hunger": 12
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predluslak-004M",
+    "species_id": "Predluslak",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#FF3031",
+    "pattern": "spots",
+    "limb_count": 3,
+    "stats": {
+      "health": 144,
+      "speed": 1.052235138937139,
+      "strength": 56,
+      "max_age": 35,
+      "hunger": 13
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predluslak-005M",
+    "species_id": "Predluslak",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#FF3031",
+    "pattern": "bands",
+    "limb_count": 8,
+    "stats": {
+      "health": 96,
+      "speed": 0.4495728300257519,
+      "strength": 38,
+      "max_age": 42,
+      "hunger": 14
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predluslak-006M",
+    "species_id": "Predluslak",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#FD5E53",
+    "pattern": "spots",
+    "limb_count": 5,
+    "stats": {
+      "health": 55,
+      "speed": 2.228705884060573,
+      "strength": 29,
+      "max_age": 37,
+      "hunger": 16
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Predluslak-007F",
+    "species_id": "Predluslak",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#C9184A",
+    "pattern": "solid",
+    "limb_count": 4,
+    "stats": {
+      "health": 136,
+      "speed": 0.5635192057877801,
+      "strength": 52,
+      "max_age": 31,
+      "hunger": 23
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Predluslak-008M",
+    "species_id": "Predluslak",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#C9184A",
+    "pattern": "spots",
+    "limb_count": 5,
+    "stats": {
+      "health": 60,
+      "speed": 1.372787767741216,
+      "strength": 21,
+      "max_age": 27,
+      "hunger": 17
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Predluslak-009M",
+    "species_id": "Predluslak",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#FF3031",
+    "pattern": "bands",
+    "limb_count": 7,
+    "stats": {
+      "health": 40,
+      "speed": 0.7699203485665854,
+      "strength": 60,
+      "max_age": 54,
+      "hunger": 11
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Predluszel-000F",
+    "species_id": "Predluszel",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#2E294E",
+    "pattern": "spots",
+    "limb_count": 6,
+    "stats": {
+      "health": 35,
+      "speed": 1.9395085260279004,
+      "strength": 14,
+      "max_age": 52,
+      "hunger": 14
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Predluszel-001F",
+    "species_id": "Predluszel",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#1B998B",
+    "pattern": "spots",
+    "limb_count": 7,
+    "stats": {
+      "health": 180,
+      "speed": 0.3772877990591532,
+      "strength": 36,
+      "max_age": 44,
+      "hunger": 10
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Predluszel-002F",
+    "species_id": "Predluszel",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#C5D86D",
+    "pattern": "solid",
+    "limb_count": 8,
+    "stats": {
+      "health": 116,
+      "speed": 0.5369137168689272,
+      "strength": 36,
+      "max_age": 57,
+      "hunger": 24
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Predluszel-003F",
+    "species_id": "Predluszel",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#1B998B",
+    "pattern": "stripes",
+    "limb_count": 5,
+    "stats": {
+      "health": 170,
+      "speed": 0.7231861859093263,
+      "strength": 60,
+      "max_age": 30,
+      "hunger": 7
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Predluszel-004F",
+    "species_id": "Predluszel",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#F46036",
+    "pattern": "spots",
+    "limb_count": 7,
+    "stats": {
+      "health": 48,
+      "speed": 2.113125789152532,
+      "strength": 9,
+      "max_age": 21,
+      "hunger": 6
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predluszel-005F",
+    "species_id": "Predluszel",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#D7263D",
+    "pattern": "bands",
+    "limb_count": 5,
+    "stats": {
+      "health": 400,
+      "speed": 0.4128354497046591,
+      "strength": 108,
+      "max_age": 44,
+      "hunger": 20
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Predluszel-006M",
+    "species_id": "Predluszel",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#D7263D",
+    "pattern": "solid",
+    "limb_count": 8,
+    "stats": {
+      "health": 74,
+      "speed": 0.9376822736246389,
+      "strength": 30,
+      "max_age": 53,
+      "hunger": 19
+    },
+    "biome": "ice_cap"
+  },
+  {
+    "name": "Predluszel-007M",
+    "species_id": "Predluszel",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#1B998B",
+    "pattern": "bands",
+    "limb_count": 3,
+    "stats": {
+      "health": 87,
+      "speed": 2.475784906132896,
+      "strength": 24,
+      "max_age": 40,
+      "hunger": 19
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Predluszel-008F",
+    "species_id": "Predluszel",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#1B998B",
+    "pattern": "bands",
+    "limb_count": 3,
+    "stats": {
+      "health": 308,
+      "speed": 0.2545957742325097,
+      "strength": 48,
+      "max_age": 60,
+      "hunger": 13
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Predluszel-009F",
+    "species_id": "Predluszel",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#F46036",
+    "pattern": "bands",
+    "limb_count": 4,
+    "stats": {
+      "health": 116,
+      "speed": 0.4817724313055282,
+      "strength": 48,
+      "max_age": 37,
+      "hunger": 15
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Predbisron-000M",
+    "species_id": "Predbisron",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#720026",
+    "pattern": "bands",
+    "limb_count": 3,
+    "stats": {
+      "health": 39,
+      "speed": 1.9128382833891044,
+      "strength": 7,
+      "max_age": 46,
+      "hunger": 18
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Predbisron-001F",
+    "species_id": "Predbisron",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#F72585",
+    "pattern": "bands",
+    "limb_count": 3,
+    "stats": {
+      "health": 138,
+      "speed": 1.154838478340177,
+      "strength": 46,
+      "max_age": 21,
+      "hunger": 23
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Predbisron-002F",
+    "species_id": "Predbisron",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#CE4257",
+    "pattern": "bands",
+    "limb_count": 4,
+    "stats": {
+      "health": 73,
+      "speed": 1.576441135220463,
+      "strength": 28,
+      "max_age": 54,
+      "hunger": 24
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predbisron-003F",
+    "species_id": "Predbisron",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#CE4257",
+    "pattern": "bands",
+    "limb_count": 5,
+    "stats": {
+      "health": 23,
+      "speed": 1.277714406492256,
+      "strength": 26,
+      "max_age": 45,
+      "hunger": 10
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Predbisron-004M",
+    "species_id": "Predbisron",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#FFA5A5",
+    "pattern": "bands",
+    "limb_count": 2,
+    "stats": {
+      "health": 380,
+      "speed": 0.40719599151238706,
+      "strength": 20,
+      "max_age": 25,
+      "hunger": 25
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Predbisron-005M",
+    "species_id": "Predbisron",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#720026",
+    "pattern": "spots",
+    "limb_count": 2,
+    "stats": {
+      "health": 136,
+      "speed": 0.5773526669417343,
+      "strength": 38,
+      "max_age": 40,
+      "hunger": 15
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Predbisron-006F",
+    "species_id": "Predbisron",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#CE4257",
+    "pattern": "solid",
+    "limb_count": 8,
+    "stats": {
+      "health": 160,
+      "speed": 0.2693832870500107,
+      "strength": 44,
+      "max_age": 23,
+      "hunger": 16
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predbisron-007M",
+    "species_id": "Predbisron",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#F72585",
+    "pattern": "solid",
+    "limb_count": 8,
+    "stats": {
+      "health": 204,
+      "speed": 0.22468034118126645,
+      "strength": 20,
+      "max_age": 59,
+      "hunger": 9
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predbisron-008M",
+    "species_id": "Predbisron",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#F72585",
+    "pattern": "stripes",
+    "limb_count": 6,
+    "stats": {
+      "health": 158,
+      "speed": 0.9494649712461508,
+      "strength": 58,
+      "max_age": 43,
+      "hunger": 10
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Predbisron-009M",
+    "species_id": "Predbisron",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#CE4257",
+    "pattern": "mottled",
+    "limb_count": 2,
+    "stats": {
+      "health": 23,
+      "speed": 2.357774336814243,
+      "strength": 23,
+      "max_age": 44,
+      "hunger": 17
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Predronlus-000M",
+    "species_id": "Predronlus",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#F18701",
+    "pattern": "stripes",
+    "limb_count": 7,
+    "stats": {
+      "health": 33,
+      "speed": 1.8943860049915444,
+      "strength": 14,
+      "max_age": 58,
+      "hunger": 8
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Predronlus-001M",
+    "species_id": "Predronlus",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#F18701",
+    "pattern": "spots",
+    "limb_count": 5,
+    "stats": {
+      "health": 56,
+      "speed": 0.7559607896770779,
+      "strength": 30,
+      "max_age": 20,
+      "hunger": 18
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Predronlus-002M",
+    "species_id": "Predronlus",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#FFD700",
+    "pattern": "bands",
+    "limb_count": 7,
+    "stats": {
+      "health": 78,
+      "speed": 0.685487145007677,
+      "strength": 56,
+      "max_age": 53,
+      "hunger": 25
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Predronlus-003F",
+    "species_id": "Predronlus",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#F7B801",
+    "pattern": "mottled",
+    "limb_count": 8,
+    "stats": {
+      "health": 108,
+      "speed": 0.5723045829811182,
+      "strength": 24,
+      "max_age": 25,
+      "hunger": 13
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Predronlus-004M",
+    "species_id": "Predronlus",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#F18701",
+    "pattern": "bands",
+    "limb_count": 6,
+    "stats": {
+      "health": 126,
+      "speed": 0.2786999977700896,
+      "strength": 30,
+      "max_age": 31,
+      "hunger": 20
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predronlus-005F",
+    "species_id": "Predronlus",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#FFD700",
+    "pattern": "mottled",
+    "limb_count": 4,
+    "stats": {
+      "health": 110,
+      "speed": 0.8057910279195838,
+      "strength": 42,
+      "max_age": 32,
+      "hunger": 7
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predronlus-006F",
+    "species_id": "Predronlus",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#F18701",
+    "pattern": "stripes",
+    "limb_count": 8,
+    "stats": {
+      "health": 160,
+      "speed": 0.8959028997409523,
+      "strength": 40,
+      "max_age": 48,
+      "hunger": 5
+    },
+    "biome": "ice_cap"
+  },
+  {
+    "name": "Predronlus-007F",
+    "species_id": "Predronlus",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#F7B801",
+    "pattern": "stripes",
+    "limb_count": 7,
+    "stats": {
+      "health": 59,
+      "speed": 1.827920043193632,
+      "strength": 16,
+      "max_age": 50,
+      "hunger": 22
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Predronlus-008F",
+    "species_id": "Predronlus",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#F18701",
+    "pattern": "spots",
+    "limb_count": 4,
+    "stats": {
+      "health": 156,
+      "speed": 0.5209164269761963,
+      "strength": 26,
+      "max_age": 34,
+      "hunger": 8
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Predronlus-009M",
+    "species_id": "Predronlus",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#FF3366",
+    "pattern": "mottled",
+    "limb_count": 7,
+    "stats": {
+      "health": 86,
+      "speed": 0.44154097301054474,
+      "strength": 56,
+      "max_age": 50,
+      "hunger": 13
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Predvikvik-000F",
+    "species_id": "Predvikvik",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#F86624",
+    "pattern": "stripes",
+    "limb_count": 4,
+    "stats": {
+      "health": 66,
+      "speed": 0.8588830873708067,
+      "strength": 5,
+      "max_age": 54,
+      "hunger": 9
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Predvikvik-001M",
+    "species_id": "Predvikvik",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#662E9B",
+    "pattern": "stripes",
+    "limb_count": 4,
+    "stats": {
+      "health": 82,
+      "speed": 0.7051752935755213,
+      "strength": 5,
+      "max_age": 56,
+      "hunger": 14
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Predvikvik-002F",
+    "species_id": "Predvikvik",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#F9C80E",
+    "pattern": "solid",
+    "limb_count": 3,
+    "stats": {
+      "health": 104,
+      "speed": 1.1910635967681031,
+      "strength": 40,
+      "max_age": 27,
+      "hunger": 7
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Predvikvik-003F",
+    "species_id": "Predvikvik",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#662E9B",
+    "pattern": "solid",
+    "limb_count": 7,
+    "stats": {
+      "health": 39,
+      "speed": 0.7983951689473103,
+      "strength": 23,
+      "max_age": 39,
+      "hunger": 7
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predvikvik-004M",
+    "species_id": "Predvikvik",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#43BCCD",
+    "pattern": "mottled",
+    "limb_count": 6,
+    "stats": {
+      "health": 396,
+      "speed": 0.2378435685325173,
+      "strength": 84,
+      "max_age": 44,
+      "hunger": 19
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Predvikvik-005F",
+    "species_id": "Predvikvik",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#43BCCD",
+    "pattern": "mottled",
+    "limb_count": 4,
+    "stats": {
+      "health": 396,
+      "speed": 0.15511515218627042,
+      "strength": 112,
+      "max_age": 26,
+      "hunger": 11
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Predvikvik-006M",
+    "species_id": "Predvikvik",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#EA3546",
+    "pattern": "stripes",
+    "limb_count": 3,
+    "stats": {
+      "health": 84,
+      "speed": 0.801992245577759,
+      "strength": 20,
+      "max_age": 20,
+      "hunger": 18
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Predvikvik-007F",
+    "species_id": "Predvikvik",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#EA3546",
+    "pattern": "spots",
+    "limb_count": 3,
+    "stats": {
+      "health": 112,
+      "speed": 0.9529875580937172,
+      "strength": 38,
+      "max_age": 24,
+      "hunger": 12
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Predvikvik-008M",
+    "species_id": "Predvikvik",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#EA3546",
+    "pattern": "stripes",
+    "limb_count": 6,
+    "stats": {
+      "health": 78,
+      "speed": 1.158411445212606,
+      "strength": 18,
+      "max_age": 24,
+      "hunger": 6
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predvikvik-009F",
+    "species_id": "Predvikvik",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#662E9B",
+    "pattern": "bands",
+    "limb_count": 4,
+    "stats": {
+      "health": 140,
+      "speed": 0.35934898513808095,
+      "strength": 56,
+      "max_age": 45,
+      "hunger": 13
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Predlakzel-000F",
+    "species_id": "Predlakzel",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#FA8334",
+    "pattern": "solid",
+    "limb_count": 6,
+    "stats": {
+      "health": 150,
+      "speed": 0.9845339232856153,
+      "strength": 48,
+      "max_age": 36,
+      "hunger": 5
+    },
+    "biome": "ice_cap"
+  },
+  {
+    "name": "Predlakzel-001M",
+    "species_id": "Predlakzel",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#B2DBBF",
+    "pattern": "solid",
+    "limb_count": 6,
+    "stats": {
+      "health": 216,
+      "speed": 0.4131234923013734,
+      "strength": 116,
+      "max_age": 31,
+      "hunger": 20
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Predlakzel-002F",
+    "species_id": "Predlakzel",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#F9C80E",
+    "pattern": "bands",
+    "limb_count": 6,
+    "stats": {
+      "health": 164,
+      "speed": 1.2190552360657037,
+      "strength": 40,
+      "max_age": 42,
+      "hunger": 18
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Predlakzel-003F",
+    "species_id": "Predlakzel",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#FA8334",
+    "pattern": "stripes",
+    "limb_count": 8,
+    "stats": {
+      "health": 248,
+      "speed": 0.33082254489389684,
+      "strength": 80,
+      "max_age": 38,
+      "hunger": 17
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Predlakzel-004M",
+    "species_id": "Predlakzel",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#FA8334",
+    "pattern": "spots",
+    "limb_count": 4,
+    "stats": {
+      "health": 122,
+      "speed": 0.36592160143095787,
+      "strength": 58,
+      "max_age": 45,
+      "hunger": 21
+    },
+    "biome": "ice_cap"
+  },
+  {
+    "name": "Predlakzel-005F",
+    "species_id": "Predlakzel",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#FA8334",
+    "pattern": "mottled",
+    "limb_count": 3,
+    "stats": {
+      "health": 132,
+      "speed": 0.8726338726017113,
+      "strength": 40,
+      "max_age": 60,
+      "hunger": 19
+    },
+    "biome": "ice_cap"
+  },
+  {
+    "name": "Predlakzel-006M",
+    "species_id": "Predlakzel",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#B2DBBF",
+    "pattern": "spots",
+    "limb_count": 3,
+    "stats": {
+      "health": 152,
+      "speed": 1.1308466173578056,
+      "strength": 40,
+      "max_age": 27,
+      "hunger": 5
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Predlakzel-007M",
+    "species_id": "Predlakzel",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#F9C80E",
+    "pattern": "mottled",
+    "limb_count": 4,
+    "stats": {
+      "health": 84,
+      "speed": 0.4011257045268665,
+      "strength": 28,
+      "max_age": 34,
+      "hunger": 8
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Predlakzel-008M",
+    "species_id": "Predlakzel",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#F9C80E",
+    "pattern": "spots",
+    "limb_count": 5,
+    "stats": {
+      "health": 340,
+      "speed": 0.47770581496292686,
+      "strength": 72,
+      "max_age": 50,
+      "hunger": 20
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predlakzel-009F",
+    "species_id": "Predlakzel",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#F9C80E",
+    "pattern": "stripes",
+    "limb_count": 5,
+    "stats": {
+      "health": 384,
+      "speed": 0.379120445796447,
+      "strength": 36,
+      "max_age": 24,
+      "hunger": 13
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Predronlak-000F",
+    "species_id": "Predronlak",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#F9C74F",
+    "pattern": "solid",
+    "limb_count": 8,
+    "stats": {
+      "health": 224,
+      "speed": 0.48802549130676626,
+      "strength": 92,
+      "max_age": 57,
+      "hunger": 20
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predronlak-001F",
+    "species_id": "Predronlak",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#90BE6D",
+    "pattern": "spots",
+    "limb_count": 4,
+    "stats": {
+      "health": 360,
+      "speed": 0.5064363388099896,
+      "strength": 68,
+      "max_age": 49,
+      "hunger": 15
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predronlak-002M",
+    "species_id": "Predronlak",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#90BE6D",
+    "pattern": "bands",
+    "limb_count": 3,
+    "stats": {
+      "health": 100,
+      "speed": 0.2840881636168999,
+      "strength": 80,
+      "max_age": 44,
+      "hunger": 17
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Predronlak-003M",
+    "species_id": "Predronlak",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#F94144",
+    "pattern": "mottled",
+    "limb_count": 3,
+    "stats": {
+      "health": 190,
+      "speed": 0.5819947039313638,
+      "strength": 16,
+      "max_age": 48,
+      "hunger": 8
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Predronlak-004F",
+    "species_id": "Predronlak",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#F3722C",
+    "pattern": "stripes",
+    "limb_count": 5,
+    "stats": {
+      "health": 29,
+      "speed": 1.4389812019694639,
+      "strength": 13,
+      "max_age": 41,
+      "hunger": 24
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Predronlak-005F",
+    "species_id": "Predronlak",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#F94144",
+    "pattern": "spots",
+    "limb_count": 8,
+    "stats": {
+      "health": 352,
+      "speed": 0.31500469876132753,
+      "strength": 60,
+      "max_age": 60,
+      "hunger": 20
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Predronlak-006M",
+    "species_id": "Predronlak",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#F94144",
+    "pattern": "spots",
+    "limb_count": 3,
+    "stats": {
+      "health": 196,
+      "speed": 0.4983831833689635,
+      "strength": 72,
+      "max_age": 26,
+      "hunger": 25
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Predronlak-007M",
+    "species_id": "Predronlak",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#F3722C",
+    "pattern": "spots",
+    "limb_count": 7,
+    "stats": {
+      "health": 46,
+      "speed": 0.29599096867721275,
+      "strength": 60,
+      "max_age": 23,
+      "hunger": 14
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Predronlak-008F",
+    "species_id": "Predronlak",
+    "is_predator": true,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#F3722C",
+    "pattern": "mottled",
+    "limb_count": 3,
+    "stats": {
+      "health": 144,
+      "speed": 0.8159280619159368,
+      "strength": 60,
+      "max_age": 31,
+      "hunger": 10
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Predronlak-009M",
+    "species_id": "Predronlak",
+    "is_predator": true,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#90BE6D",
+    "pattern": "stripes",
+    "limb_count": 6,
+    "stats": {
+      "health": 332,
+      "speed": 0.5814145080117774,
+      "strength": 36,
+      "max_age": 34,
+      "hunger": 19
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herbviklak-000F",
+    "species_id": "Herbviklak",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#E6E6E6",
+    "pattern": "solid",
+    "limb_count": 7,
+    "stats": {
+      "health": 158,
+      "speed": 1.151209423598883,
+      "strength": 24,
+      "max_age": 54,
+      "hunger": 10
+    },
+    "biome": "ice_cap"
+  },
+  {
+    "name": "Herbviklak-001F",
+    "species_id": "Herbviklak",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#8E9B97",
+    "pattern": "bands",
+    "limb_count": 4,
+    "stats": {
+      "health": 104,
+      "speed": 0.7068358126677865,
+      "strength": 12,
+      "max_age": 32,
+      "hunger": 17
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Herbviklak-002M",
+    "species_id": "Herbviklak",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#B8B8B8",
+    "pattern": "spots",
+    "limb_count": 6,
+    "stats": {
+      "health": 93,
+      "speed": 1.0917447804315692,
+      "strength": 13,
+      "max_age": 38,
+      "hunger": 5
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herbviklak-003F",
+    "species_id": "Herbviklak",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#7C9473",
+    "pattern": "solid",
+    "limb_count": 6,
+    "stats": {
+      "health": 194,
+      "speed": 0.9951721541339701,
+      "strength": 30,
+      "max_age": 38,
+      "hunger": 12
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Herbviklak-004F",
+    "species_id": "Herbviklak",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#A5C882",
+    "pattern": "spots",
+    "limb_count": 6,
+    "stats": {
+      "health": 37,
+      "speed": 1.7564962073737966,
+      "strength": 12,
+      "max_age": 22,
+      "hunger": 14
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Herbviklak-005M",
+    "species_id": "Herbviklak",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#E6E6E6",
+    "pattern": "stripes",
+    "limb_count": 7,
+    "stats": {
+      "health": 124,
+      "speed": 0.5798139061596634,
+      "strength": 28,
+      "max_age": 46,
+      "hunger": 10
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Herbviklak-006M",
+    "species_id": "Herbviklak",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#E6E6E6",
+    "pattern": "mottled",
+    "limb_count": 6,
+    "stats": {
+      "health": 216,
+      "speed": 0.5402363097836986,
+      "strength": 24,
+      "max_age": 50,
+      "hunger": 14
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herbviklak-007F",
+    "species_id": "Herbviklak",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#B8B8B8",
+    "pattern": "stripes",
+    "limb_count": 2,
+    "stats": {
+      "health": 48,
+      "speed": 2.2202811937976437,
+      "strength": 13,
+      "max_age": 45,
+      "hunger": 22
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herbviklak-008M",
+    "species_id": "Herbviklak",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#7C9473",
+    "pattern": "mottled",
+    "limb_count": 4,
+    "stats": {
+      "health": 70,
+      "speed": 0.7047860277338747,
+      "strength": 24,
+      "max_age": 36,
+      "hunger": 23
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Herbviklak-009F",
+    "species_id": "Herbviklak",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#A5C882",
+    "pattern": "solid",
+    "limb_count": 5,
+    "stats": {
+      "health": 99,
+      "speed": 2.268469690429704,
+      "strength": 10,
+      "max_age": 40,
+      "hunger": 24
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Herbbisvik-000M",
+    "species_id": "Herbbisvik",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#B5CDA3",
+    "pattern": "spots",
+    "limb_count": 7,
+    "stats": {
+      "health": 288,
+      "speed": 0.18333796836352723,
+      "strength": 8,
+      "max_age": 22,
+      "hunger": 14
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Herbbisvik-001M",
+    "species_id": "Herbbisvik",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#A3B18A",
+    "pattern": "stripes",
+    "limb_count": 6,
+    "stats": {
+      "health": 69,
+      "speed": 1.4072875137777852,
+      "strength": 12,
+      "max_age": 54,
+      "hunger": 18
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Herbbisvik-002M",
+    "species_id": "Herbbisvik",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#C4B7CB",
+    "pattern": "bands",
+    "limb_count": 8,
+    "stats": {
+      "health": 196,
+      "speed": 0.6581158856977005,
+      "strength": 12,
+      "max_age": 22,
+      "hunger": 16
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Herbbisvik-003F",
+    "species_id": "Herbbisvik",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#A3B18A",
+    "pattern": "spots",
+    "limb_count": 8,
+    "stats": {
+      "health": 64,
+      "speed": 1.2309277183240672,
+      "strength": 14,
+      "max_age": 54,
+      "hunger": 25
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herbbisvik-004M",
+    "species_id": "Herbbisvik",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#D9BF77",
+    "pattern": "solid",
+    "limb_count": 3,
+    "stats": {
+      "health": 156,
+      "speed": 0.34167342381752086,
+      "strength": 10,
+      "max_age": 60,
+      "hunger": 24
+    },
+    "biome": "ice_cap"
+  },
+  {
+    "name": "Herbbisvik-005M",
+    "species_id": "Herbbisvik",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#A3B18A",
+    "pattern": "mottled",
+    "limb_count": 3,
+    "stats": {
+      "health": 92,
+      "speed": 0.3186101528243559,
+      "strength": 28,
+      "max_age": 55,
+      "hunger": 11
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Herbbisvik-006M",
+    "species_id": "Herbbisvik",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#D9BF77",
+    "pattern": "stripes",
+    "limb_count": 8,
+    "stats": {
+      "health": 96,
+      "speed": 0.5056711029600327,
+      "strength": 15,
+      "max_age": 29,
+      "hunger": 9
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Herbbisvik-007F",
+    "species_id": "Herbbisvik",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#C4B7CB",
+    "pattern": "solid",
+    "limb_count": 7,
+    "stats": {
+      "health": 36,
+      "speed": 0.5297206544614177,
+      "strength": 14,
+      "max_age": 35,
+      "hunger": 23
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herbbisvik-008M",
+    "species_id": "Herbbisvik",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#D9BF77",
+    "pattern": "stripes",
+    "limb_count": 2,
+    "stats": {
+      "health": 73,
+      "speed": 1.5521710531957342,
+      "strength": 13,
+      "max_age": 24,
+      "hunger": 20
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Herbbisvik-009F",
+    "species_id": "Herbbisvik",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#B0A990",
+    "pattern": "bands",
+    "limb_count": 2,
+    "stats": {
+      "health": 336,
+      "speed": 0.2357748782091425,
+      "strength": 44,
+      "max_age": 22,
+      "hunger": 21
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herbtiszel-000F",
+    "species_id": "Herbtiszel",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#A6A57A",
+    "pattern": "bands",
+    "limb_count": 2,
+    "stats": {
+      "health": 284,
+      "speed": 0.3381368096399959,
+      "strength": 12,
+      "max_age": 51,
+      "hunger": 19
+    },
+    "biome": "ice_cap"
+  },
+  {
+    "name": "Herbtiszel-001M",
+    "species_id": "Herbtiszel",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#2D3047",
+    "pattern": "solid",
+    "limb_count": 3,
+    "stats": {
+      "health": 72,
+      "speed": 0.5250159995579532,
+      "strength": 24,
+      "max_age": 57,
+      "hunger": 22
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herbtiszel-002F",
+    "species_id": "Herbtiszel",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#2D3047",
+    "pattern": "spots",
+    "limb_count": 6,
+    "stats": {
+      "health": 156,
+      "speed": 0.7555510744856804,
+      "strength": 16,
+      "max_age": 26,
+      "hunger": 8
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herbtiszel-003M",
+    "species_id": "Herbtiszel",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#C9BBCF",
+    "pattern": "bands",
+    "limb_count": 3,
+    "stats": {
+      "health": 126,
+      "speed": 1.0774192247800447,
+      "strength": 16,
+      "max_age": 46,
+      "hunger": 8
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herbtiszel-004F",
+    "species_id": "Herbtiszel",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#ECE4B7",
+    "pattern": "stripes",
+    "limb_count": 4,
+    "stats": {
+      "health": 160,
+      "speed": 0.31713330813664775,
+      "strength": 30,
+      "max_age": 25,
+      "hunger": 7
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Herbtiszel-005M",
+    "species_id": "Herbtiszel",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#ECE4B7",
+    "pattern": "stripes",
+    "limb_count": 8,
+    "stats": {
+      "health": 364,
+      "speed": 0.15499048898542328,
+      "strength": 40,
+      "max_age": 55,
+      "hunger": 15
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herbtiszel-006M",
+    "species_id": "Herbtiszel",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#ECE4B7",
+    "pattern": "bands",
+    "limb_count": 8,
+    "stats": {
+      "health": 52,
+      "speed": 1.2183986253114745,
+      "strength": 22,
+      "max_age": 39,
+      "hunger": 16
+    },
+    "biome": "ice_cap"
+  },
+  {
+    "name": "Herbtiszel-007M",
+    "species_id": "Herbtiszel",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#C9BBCF",
+    "pattern": "solid",
+    "limb_count": 3,
+    "stats": {
+      "health": 64,
+      "speed": 2.19074683720269,
+      "strength": 7,
+      "max_age": 27,
+      "hunger": 13
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Herbtiszel-008M",
+    "species_id": "Herbtiszel",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#2D3047",
+    "pattern": "mottled",
+    "limb_count": 8,
+    "stats": {
+      "health": 196,
+      "speed": 0.9249767112933036,
+      "strength": 20,
+      "max_age": 21,
+      "hunger": 24
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herbtiszel-009F",
+    "species_id": "Herbtiszel",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#CEB992",
+    "pattern": "spots",
+    "limb_count": 4,
+    "stats": {
+      "health": 63,
+      "speed": 1.2020468414739636,
+      "strength": 4,
+      "max_age": 29,
+      "hunger": 23
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herbzarron-000F",
+    "species_id": "Herbzarron",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#6B4226",
+    "pattern": "solid",
+    "limb_count": 7,
+    "stats": {
+      "health": 31,
+      "speed": 1.9922235240114134,
+      "strength": 5,
+      "max_age": 44,
+      "hunger": 18
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Herbzarron-001F",
+    "species_id": "Herbzarron",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#D9BF77",
+    "pattern": "spots",
+    "limb_count": 4,
+    "stats": {
+      "health": 92,
+      "speed": 1.6924475444101845,
+      "strength": 2,
+      "max_age": 29,
+      "hunger": 10
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Herbzarron-002M",
+    "species_id": "Herbzarron",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#A9BDBF",
+    "pattern": "bands",
+    "limb_count": 4,
+    "stats": {
+      "health": 296,
+      "speed": 0.3678308524454981,
+      "strength": 36,
+      "max_age": 46,
+      "hunger": 13
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Herbzarron-003M",
+    "species_id": "Herbzarron",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#A2A392",
+    "pattern": "spots",
+    "limb_count": 2,
+    "stats": {
+      "health": 190,
+      "speed": 0.7366327533642508,
+      "strength": 24,
+      "max_age": 39,
+      "hunger": 6
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Herbzarron-004F",
+    "species_id": "Herbzarron",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#A9BDBF",
+    "pattern": "stripes",
+    "limb_count": 2,
+    "stats": {
+      "health": 232,
+      "speed": 0.597662043613322,
+      "strength": 56,
+      "max_age": 28,
+      "hunger": 13
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herbzarron-005F",
+    "species_id": "Herbzarron",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#A9BDBF",
+    "pattern": "bands",
+    "limb_count": 5,
+    "stats": {
+      "health": 42,
+      "speed": 0.7583714035184299,
+      "strength": 10,
+      "max_age": 34,
+      "hunger": 21
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Herbzarron-006F",
+    "species_id": "Herbzarron",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#A2A392",
+    "pattern": "solid",
+    "limb_count": 8,
+    "stats": {
+      "health": 75,
+      "speed": 0.5374830731712914,
+      "strength": 3,
+      "max_age": 40,
+      "hunger": 23
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Herbzarron-007F",
+    "species_id": "Herbzarron",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#A2A392",
+    "pattern": "solid",
+    "limb_count": 4,
+    "stats": {
+      "health": 284,
+      "speed": 0.1354282795123744,
+      "strength": 28,
+      "max_age": 30,
+      "hunger": 24
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Herbzarron-008F",
+    "species_id": "Herbzarron",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#A2A392",
+    "pattern": "solid",
+    "limb_count": 8,
+    "stats": {
+      "health": 51,
+      "speed": 1.3713530538808,
+      "strength": 8,
+      "max_age": 53,
+      "hunger": 7
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Herbzarron-009F",
+    "species_id": "Herbzarron",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#D9BF77",
+    "pattern": "spots",
+    "limb_count": 3,
+    "stats": {
+      "health": 164,
+      "speed": 0.16318968873651057,
+      "strength": 48,
+      "max_age": 27,
+      "hunger": 21
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Herbdrabis-000M",
+    "species_id": "Herbdrabis",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#B8B08D",
+    "pattern": "stripes",
+    "limb_count": 7,
+    "stats": {
+      "health": 100,
+      "speed": 0.35280452777776283,
+      "strength": 12,
+      "max_age": 32,
+      "hunger": 10
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Herbdrabis-001M",
+    "species_id": "Herbdrabis",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#556B2F",
+    "pattern": "bands",
+    "limb_count": 3,
+    "stats": {
+      "health": 316,
+      "speed": 0.502222912623493,
+      "strength": 56,
+      "max_age": 57,
+      "hunger": 19
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herbdrabis-002F",
+    "species_id": "Herbdrabis",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#B8B08D",
+    "pattern": "bands",
+    "limb_count": 3,
+    "stats": {
+      "health": 112,
+      "speed": 0.35946054176318665,
+      "strength": 48,
+      "max_age": 39,
+      "hunger": 13
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Herbdrabis-003M",
+    "species_id": "Herbdrabis",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#A7BEAE",
+    "pattern": "spots",
+    "limb_count": 2,
+    "stats": {
+      "health": 158,
+      "speed": 0.7019138637006822,
+      "strength": 4,
+      "max_age": 43,
+      "hunger": 14
+    },
+    "biome": "ice_cap"
+  },
+  {
+    "name": "Herbdrabis-004M",
+    "species_id": "Herbdrabis",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#A7BEAE",
+    "pattern": "bands",
+    "limb_count": 6,
+    "stats": {
+      "health": 316,
+      "speed": 0.4151647037055953,
+      "strength": 56,
+      "max_age": 22,
+      "hunger": 19
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Herbdrabis-005M",
+    "species_id": "Herbdrabis",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#A7BEAE",
+    "pattern": "mottled",
+    "limb_count": 5,
+    "stats": {
+      "health": 78,
+      "speed": 1.2077223588665849,
+      "strength": 18,
+      "max_age": 26,
+      "hunger": 15
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herbdrabis-006M",
+    "species_id": "Herbdrabis",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#8F9779",
+    "pattern": "stripes",
+    "limb_count": 2,
+    "stats": {
+      "health": 304,
+      "speed": 0.6204930113234437,
+      "strength": 40,
+      "max_age": 53,
+      "hunger": 24
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Herbdrabis-007F",
+    "species_id": "Herbdrabis",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#B8B08D",
+    "pattern": "bands",
+    "limb_count": 5,
+    "stats": {
+      "health": 126,
+      "speed": 0.9288977205595811,
+      "strength": 4,
+      "max_age": 60,
+      "hunger": 25
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herbdrabis-008M",
+    "species_id": "Herbdrabis",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#556B2F",
+    "pattern": "bands",
+    "limb_count": 6,
+    "stats": {
+      "health": 112,
+      "speed": 0.5019957849661533,
+      "strength": 30,
+      "max_age": 58,
+      "hunger": 9
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herbdrabis-009M",
+    "species_id": "Herbdrabis",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#8F9779",
+    "pattern": "spots",
+    "limb_count": 4,
+    "stats": {
+      "health": 280,
+      "speed": 0.1894758291357801,
+      "strength": 52,
+      "max_age": 25,
+      "hunger": 14
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Herblenzar-000F",
+    "species_id": "Herblenzar",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#BCCCA8",
+    "pattern": "stripes",
+    "limb_count": 8,
+    "stats": {
+      "health": 348,
+      "speed": 0.17172648253301087,
+      "strength": 48,
+      "max_age": 47,
+      "hunger": 21
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herblenzar-001M",
+    "species_id": "Herblenzar",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#BCCCA8",
+    "pattern": "stripes",
+    "limb_count": 3,
+    "stats": {
+      "health": 126,
+      "speed": 1.1976682675343469,
+      "strength": 18,
+      "max_age": 32,
+      "hunger": 12
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Herblenzar-002M",
+    "species_id": "Herblenzar",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#BCCCA8",
+    "pattern": "solid",
+    "limb_count": 8,
+    "stats": {
+      "health": 84,
+      "speed": 2.041749440726202,
+      "strength": 15,
+      "max_age": 53,
+      "hunger": 6
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herblenzar-003F",
+    "species_id": "Herblenzar",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#A1C181",
+    "pattern": "bands",
+    "limb_count": 6,
+    "stats": {
+      "health": 156,
+      "speed": 0.20612360604422525,
+      "strength": 60,
+      "max_age": 59,
+      "hunger": 10
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herblenzar-004F",
+    "species_id": "Herblenzar",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#B7B7A4",
+    "pattern": "stripes",
+    "limb_count": 4,
+    "stats": {
+      "health": 76,
+      "speed": 1.7211908442516315,
+      "strength": 14,
+      "max_age": 48,
+      "hunger": 12
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Herblenzar-005M",
+    "species_id": "Herblenzar",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#B7B7A4",
+    "pattern": "stripes",
+    "limb_count": 8,
+    "stats": {
+      "health": 134,
+      "speed": 0.9283068250650924,
+      "strength": 22,
+      "max_age": 48,
+      "hunger": 19
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herblenzar-006F",
+    "species_id": "Herblenzar",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#D6DBB2",
+    "pattern": "stripes",
+    "limb_count": 5,
+    "stats": {
+      "health": 180,
+      "speed": 0.5256296120757737,
+      "strength": 16,
+      "max_age": 36,
+      "hunger": 6
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herblenzar-007F",
+    "species_id": "Herblenzar",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#D6DBB2",
+    "pattern": "mottled",
+    "limb_count": 2,
+    "stats": {
+      "health": 70,
+      "speed": 0.5350630140593284,
+      "strength": 28,
+      "max_age": 30,
+      "hunger": 13
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Herblenzar-008M",
+    "species_id": "Herblenzar",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#8A817C",
+    "pattern": "bands",
+    "limb_count": 3,
+    "stats": {
+      "health": 128,
+      "speed": 1.180471927126275,
+      "strength": 16,
+      "max_age": 23,
+      "hunger": 17
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Herblenzar-009F",
+    "species_id": "Herblenzar",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#B7B7A4",
+    "pattern": "spots",
+    "limb_count": 2,
+    "stats": {
+      "health": 48,
+      "speed": 0.5563750910563001,
+      "strength": 3,
+      "max_age": 41,
+      "hunger": 9
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Herbdravik-000M",
+    "species_id": "Herbdravik",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#D7BEA8",
+    "pattern": "stripes",
+    "limb_count": 7,
+    "stats": {
+      "health": 160,
+      "speed": 0.6986014739822466,
+      "strength": 4,
+      "max_age": 25,
+      "hunger": 5
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herbdravik-001M",
+    "species_id": "Herbdravik",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#A68A64",
+    "pattern": "mottled",
+    "limb_count": 7,
+    "stats": {
+      "health": 87,
+      "speed": 1.3465095178959794,
+      "strength": 14,
+      "max_age": 38,
+      "hunger": 12
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herbdravik-002M",
+    "species_id": "Herbdravik",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#B4A582",
+    "pattern": "mottled",
+    "limb_count": 5,
+    "stats": {
+      "health": 78,
+      "speed": 0.6256143020221276,
+      "strength": 15,
+      "max_age": 51,
+      "hunger": 24
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Herbdravik-003M",
+    "species_id": "Herbdravik",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#A68A64",
+    "pattern": "stripes",
+    "limb_count": 6,
+    "stats": {
+      "health": 152,
+      "speed": 0.27063599388762893,
+      "strength": 8,
+      "max_age": 59,
+      "hunger": 16
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Herbdravik-004F",
+    "species_id": "Herbdravik",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#78866B",
+    "pattern": "spots",
+    "limb_count": 6,
+    "stats": {
+      "health": 28,
+      "speed": 2.40680735597103,
+      "strength": 10,
+      "max_age": 52,
+      "hunger": 21
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Herbdravik-005M",
+    "species_id": "Herbdravik",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#D7BEA8",
+    "pattern": "bands",
+    "limb_count": 2,
+    "stats": {
+      "health": 134,
+      "speed": 0.5036502610692127,
+      "strength": 4,
+      "max_age": 42,
+      "hunger": 7
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herbdravik-006M",
+    "species_id": "Herbdravik",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#78866B",
+    "pattern": "mottled",
+    "limb_count": 8,
+    "stats": {
+      "health": 248,
+      "speed": 0.191704794929682,
+      "strength": 28,
+      "max_age": 54,
+      "hunger": 15
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herbdravik-007M",
+    "species_id": "Herbdravik",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#D7BEA8",
+    "pattern": "bands",
+    "limb_count": 7,
+    "stats": {
+      "health": 400,
+      "speed": 0.21613899920693663,
+      "strength": 16,
+      "max_age": 24,
+      "hunger": 19
+    },
+    "biome": "ice_cap"
+  },
+  {
+    "name": "Herbdravik-008F",
+    "species_id": "Herbdravik",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#78866B",
+    "pattern": "stripes",
+    "limb_count": 8,
+    "stats": {
+      "health": 25,
+      "speed": 1.1311916400994506,
+      "strength": 6,
+      "max_age": 52,
+      "hunger": 17
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Herbdravik-009F",
+    "species_id": "Herbdravik",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#78866B",
+    "pattern": "stripes",
+    "limb_count": 8,
+    "stats": {
+      "health": 112,
+      "speed": 0.6069741760353634,
+      "strength": 28,
+      "max_age": 23,
+      "hunger": 25
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herblenlus-000F",
+    "species_id": "Herblenlus",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#C7EFCF",
+    "pattern": "bands",
+    "limb_count": 5,
+    "stats": {
+      "health": 76,
+      "speed": 2.2892749899101066,
+      "strength": 8,
+      "max_age": 41,
+      "hunger": 10
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Herblenlus-001F",
+    "species_id": "Herblenlus",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#FFE156",
+    "pattern": "solid",
+    "limb_count": 4,
+    "stats": {
+      "health": 148,
+      "speed": 0.3289270060554679,
+      "strength": 22,
+      "max_age": 31,
+      "hunger": 22
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herblenlus-002F",
+    "species_id": "Herblenlus",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#62760C",
+    "pattern": "spots",
+    "limb_count": 4,
+    "stats": {
+      "health": 59,
+      "speed": 1.3918315261993053,
+      "strength": 13,
+      "max_age": 47,
+      "hunger": 10
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herblenlus-003F",
+    "species_id": "Herblenlus",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#EEF5DB",
+    "pattern": "spots",
+    "limb_count": 2,
+    "stats": {
+      "health": 196,
+      "speed": 1.2481505977730492,
+      "strength": 12,
+      "max_age": 60,
+      "hunger": 6
+    },
+    "biome": "ice_cap"
+  },
+  {
+    "name": "Herblenlus-004F",
+    "species_id": "Herblenlus",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#FFE156",
+    "pattern": "stripes",
+    "limb_count": 8,
+    "stats": {
+      "health": 46,
+      "speed": 0.39277946836254973,
+      "strength": 22,
+      "max_age": 48,
+      "hunger": 6
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Herblenlus-005M",
+    "species_id": "Herblenlus",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#C7EFCF",
+    "pattern": "bands",
+    "limb_count": 4,
+    "stats": {
+      "health": 92,
+      "speed": 0.564770647959334,
+      "strength": 4,
+      "max_age": 48,
+      "hunger": 16
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herblenlus-006F",
+    "species_id": "Herblenlus",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#FFE156",
+    "pattern": "mottled",
+    "limb_count": 3,
+    "stats": {
+      "health": 66,
+      "speed": 1.2960680919049,
+      "strength": 12,
+      "max_age": 37,
+      "hunger": 12
+    },
+    "biome": "ice_cap"
+  },
+  {
+    "name": "Herblenlus-007M",
+    "species_id": "Herblenlus",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#C6D166",
+    "pattern": "mottled",
+    "limb_count": 5,
+    "stats": {
+      "health": 276,
+      "speed": 0.5817712529065933,
+      "strength": 12,
+      "max_age": 36,
+      "hunger": 13
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herblenlus-008F",
+    "species_id": "Herblenlus",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#FFE156",
+    "pattern": "bands",
+    "limb_count": 4,
+    "stats": {
+      "health": 45,
+      "speed": 0.7452748438079417,
+      "strength": 15,
+      "max_age": 24,
+      "hunger": 19
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Herblenlus-009F",
+    "species_id": "Herblenlus",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#C7EFCF",
+    "pattern": "spots",
+    "limb_count": 7,
+    "stats": {
+      "health": 28,
+      "speed": 1.599994294973781,
+      "strength": 6,
+      "max_age": 39,
+      "hunger": 10
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herblusbis-000M",
+    "species_id": "Herblusbis",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#E5989B",
+    "pattern": "solid",
+    "limb_count": 3,
+    "stats": {
+      "health": 90,
+      "speed": 1.0420656736111407,
+      "strength": 10,
+      "max_age": 51,
+      "hunger": 5
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herblusbis-001F",
+    "species_id": "Herblusbis",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#E5989B",
+    "pattern": "mottled",
+    "limb_count": 3,
+    "stats": {
+      "health": 62,
+      "speed": 0.3157481052673661,
+      "strength": 16,
+      "max_age": 50,
+      "hunger": 21
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Herblusbis-002F",
+    "species_id": "Herblusbis",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#A5A58D",
+    "pattern": "spots",
+    "limb_count": 3,
+    "stats": {
+      "health": 116,
+      "speed": 0.34998724783149804,
+      "strength": 48,
+      "max_age": 53,
+      "hunger": 16
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Herblusbis-003M",
+    "species_id": "Herblusbis",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#FFB4A2",
+    "pattern": "solid",
+    "limb_count": 6,
+    "stats": {
+      "health": 35,
+      "speed": 1.5362042658480326,
+      "strength": 6,
+      "max_age": 30,
+      "hunger": 10
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herblusbis-004M",
+    "species_id": "Herblusbis",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#E5989B",
+    "pattern": "solid",
+    "limb_count": 4,
+    "stats": {
+      "health": 104,
+      "speed": 0.44630191948307363,
+      "strength": 20,
+      "max_age": 37,
+      "hunger": 9
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herblusbis-005F",
+    "species_id": "Herblusbis",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#E5989B",
+    "pattern": "mottled",
+    "limb_count": 2,
+    "stats": {
+      "health": 164,
+      "speed": 0.4209042226583026,
+      "strength": 44,
+      "max_age": 29,
+      "hunger": 10
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herblusbis-006F",
+    "species_id": "Herblusbis",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#A5A58D",
+    "pattern": "solid",
+    "limb_count": 8,
+    "stats": {
+      "health": 120,
+      "speed": 0.147730901645671,
+      "strength": 48,
+      "max_age": 56,
+      "hunger": 13
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herblusbis-007M",
+    "species_id": "Herblusbis",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 4,
+    "color": "#FFB4A2",
+    "pattern": "solid",
+    "limb_count": 6,
+    "stats": {
+      "health": 332,
+      "speed": 0.5694984407244772,
+      "strength": 40,
+      "max_age": 38,
+      "hunger": 25
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herblusbis-008F",
+    "species_id": "Herblusbis",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#FFB4A2",
+    "pattern": "bands",
+    "limb_count": 4,
+    "stats": {
+      "health": 29,
+      "speed": 1.8772271433459673,
+      "strength": 4,
+      "max_age": 48,
+      "hunger": 18
+    },
+    "biome": "desert"
+  },
+  {
+    "name": "Herblusbis-009F",
+    "species_id": "Herblusbis",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#B5838D",
+    "pattern": "stripes",
+    "limb_count": 6,
+    "stats": {
+      "health": 60,
+      "speed": 2.2229701536649893,
+      "strength": 7,
+      "max_age": 42,
+      "hunger": 17
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Herbluslen-000F",
+    "species_id": "Herbluslen",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#B9E4C9",
+    "pattern": "spots",
+    "limb_count": 2,
+    "stats": {
+      "health": 200,
+      "speed": 0.3582362835203182,
+      "strength": 24,
+      "max_age": 48,
+      "hunger": 12
+    },
+    "biome": "tundra"
+  },
+  {
+    "name": "Herbluslen-001M",
+    "species_id": "Herbluslen",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 1,
+    "color": "#9C6644",
+    "pattern": "mottled",
+    "limb_count": 5,
+    "stats": {
+      "health": 73,
+      "speed": 0.9965405607623732,
+      "strength": 15,
+      "max_age": 30,
+      "hunger": 15
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Herbluslen-002F",
+    "species_id": "Herbluslen",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#B5CDA3",
+    "pattern": "mottled",
+    "limb_count": 5,
+    "stats": {
+      "health": 79,
+      "speed": 1.4975194167953083,
+      "strength": 6,
+      "max_age": 51,
+      "hunger": 5
+    },
+    "biome": "ice_cap"
+  },
+  {
+    "name": "Herbluslen-003F",
+    "species_id": "Herbluslen",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#6F1E51",
+    "pattern": "stripes",
+    "limb_count": 3,
+    "stats": {
+      "health": 376,
+      "speed": 0.30144754442817767,
+      "strength": 8,
+      "max_age": 38,
+      "hunger": 20
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Herbluslen-004F",
+    "species_id": "Herbluslen",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#B9E4C9",
+    "pattern": "solid",
+    "limb_count": 2,
+    "stats": {
+      "health": 150,
+      "speed": 0.38393494399231465,
+      "strength": 12,
+      "max_age": 43,
+      "hunger": 17
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herbluslen-005M",
+    "species_id": "Herbluslen",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#A3B18A",
+    "pattern": "mottled",
+    "limb_count": 6,
+    "stats": {
+      "health": 88,
+      "speed": 0.6125237759442845,
+      "strength": 12,
+      "max_age": 24,
+      "hunger": 17
+    },
+    "biome": "rainforest"
+  },
+  {
+    "name": "Herbluslen-006F",
+    "species_id": "Herbluslen",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 4,
+    "color": "#9C6644",
+    "pattern": "mottled",
+    "limb_count": 8,
+    "stats": {
+      "health": 392,
+      "speed": 0.18440550986179477,
+      "strength": 12,
+      "max_age": 45,
+      "hunger": 16
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herbluslen-007F",
+    "species_id": "Herbluslen",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 1,
+    "color": "#B5CDA3",
+    "pattern": "mottled",
+    "limb_count": 6,
+    "stats": {
+      "health": 71,
+      "speed": 1.5001558071412877,
+      "strength": 2,
+      "max_age": 22,
+      "hunger": 9
+    },
+    "biome": "savanna"
+  },
+  {
+    "name": "Herbluslen-008F",
+    "species_id": "Herbluslen",
+    "is_predator": false,
+    "gender": "F",
+    "body_size": 2,
+    "color": "#B9E4C9",
+    "pattern": "stripes",
+    "limb_count": 5,
+    "stats": {
+      "health": 194,
+      "speed": 1.1431316920780072,
+      "strength": 8,
+      "max_age": 40,
+      "hunger": 24
+    },
+    "biome": "temperate_forest"
+  },
+  {
+    "name": "Herbluslen-009M",
+    "species_id": "Herbluslen",
+    "is_predator": false,
+    "gender": "M",
+    "body_size": 2,
+    "color": "#B9E4C9",
+    "pattern": "spots",
+    "limb_count": 7,
+    "stats": {
+      "health": 190,
+      "speed": 0.5863734521516784,
+      "strength": 30,
+      "max_age": 52,
+      "hunger": 22
+    },
+    "biome": "desert"
+  }
+]
