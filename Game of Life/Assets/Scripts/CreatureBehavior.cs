@@ -1,21 +1,29 @@
 using UnityEngine;
+using UnityEngine.Tilemaps;
 
 public class CreatureBehavior : MonoBehaviour
 {
-    public CreatureData data; // Assign when spawning
-    public float moveInterval = 1.0f; // Seconds between moves
-    private float moveTimer;
-    private Vector2Int mapSize;
-    private float xOffset;
-    private float yOffset;
+    public CreatureData data;
 
-    public void Init(CreatureData _data, Vector2Int _mapSize, float _xOffset, float _yOffset)
+    private Vector2Int mapSize;
+    private int xOffset;
+    private int yOffset;
+    private Tilemap tilemap;
+
+    public float moveInterval = 1.5f;
+    private float moveTimer;
+
+    public void Init(CreatureData _data, Vector2Int _mapSize, int _xOffset, int _yOffset, Tilemap _tilemap)
     {
         data = _data;
         mapSize = _mapSize;
         xOffset = _xOffset;
         yOffset = _yOffset;
-        moveTimer = moveInterval * Random.value; // Randomize starting interval
+        tilemap = _tilemap;
+        moveTimer = Random.Range(0f, moveInterval);
+
+        // Position the creature correctly at start
+        UpdateWorldPosition();
     }
 
     void Update()
@@ -24,21 +32,30 @@ public class CreatureBehavior : MonoBehaviour
         if (moveTimer <= 0f)
         {
             MoveRandom();
-            moveTimer = moveInterval + Random.Range(-0.3f, 0.3f); // Randomize a little
+            moveTimer = moveInterval + Random.Range(-0.3f, 0.3f);
         }
     }
 
-    void MoveRandom()
+    public void SimulationTick()
     {
-        // Simple random movement (later: check for biomes, collision, etc.)
-        int dx = Random.Range(-1, 2); // -1, 0, or 1
+        MoveRandom();
+    }
+
+    public void MoveRandom()
+    {
+        int dx = Random.Range(-1, 2);
         int dy = Random.Range(-1, 2);
-        Vector3 pos = transform.position + new Vector3(dx, dy, 0);
 
-        // Clamp to map boundaries (or use wraparound)
-        pos.x = Mathf.Repeat(pos.x + mapSize.x / 2f, mapSize.x) - mapSize.x / 2f;
-        pos.y = Mathf.Repeat(pos.y + mapSize.y / 2f, mapSize.y) - mapSize.y / 2f;
+        data.x = (data.x + dx + mapSize.x) % mapSize.x;
+        data.y = (data.y + dy + mapSize.y) % mapSize.y;
 
-        transform.position = new Vector3(pos.x, pos.y, transform.position.z);
+        UpdateWorldPosition();
+    }
+
+    void UpdateWorldPosition()
+    {
+        Vector3Int cell = new Vector3Int(data.x + xOffset, data.y + yOffset, 0);
+        Vector3 cellWorld = tilemap.GetCellCenterWorld(cell);
+        transform.position = cellWorld + new Vector3(0, 0, -0.1f);
     }
 }

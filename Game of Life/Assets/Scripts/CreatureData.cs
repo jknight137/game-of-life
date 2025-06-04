@@ -13,6 +13,8 @@ public class CreatureData
     public int limb_count;
     public CreatureStats stats;
     public string biome;
+    public int x;
+    public int y;
 }
 
 [System.Serializable]

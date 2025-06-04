@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7252930507195901732}
   - component: {fileID: 3161841593244462699}
+  - component: {fileID: -2864011676850689333}
   m_Layer: 0
   m_Name: CreaturePrefab
   m_TagString: Untagged
@@ -87,3 +88,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &-2864011676850689333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1237530225310470888}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58188f3dfc953c04586e36d084ce64f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  resolution: 8
+  primaryColor: {r: 1, g: 1, b: 1, a: 1}
+  pattern: symmetric

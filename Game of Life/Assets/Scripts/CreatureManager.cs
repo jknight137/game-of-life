@@ -17,7 +17,6 @@ public class CreatureManager : MonoBehaviour
 
         foreach (var creature in loader.creatures)
         {
-            // Find all positions in the correct biome
             List<Vector2Int> validPositions = new List<Vector2Int>();
             for (int x = 0; x < planet.width; x++)
             {
@@ -27,12 +26,16 @@ public class CreatureManager : MonoBehaviour
                         validPositions.Add(new Vector2Int(x, y));
                 }
             }
+
             if (validPositions.Count == 0) continue;
 
             Vector2Int chosen = validPositions[Random.Range(0, validPositions.Count)];
-            Vector3 worldPos = new Vector3(chosen.x + xOffset, chosen.y + yOffset, -0.2f);
+            creature.x = chosen.x;
+            creature.y = chosen.y;
 
-            renderer.RenderCreature(creature, worldPos, mapSize, xOffset, yOffset);
+            Vector3Int cell = new Vector3Int(creature.x + (int)xOffset, creature.y + (int)yOffset, 0);
+            renderer.RenderCreature(creature, cell, mapSize, (int)xOffset, (int)yOffset, planetRenderer.tilemap);
         }
+
     }
 }

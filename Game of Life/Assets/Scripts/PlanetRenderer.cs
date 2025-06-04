@@ -1,71 +1,77 @@
 using UnityEngine;
-using UnityEngine.UI;
-using System.Collections.Generic;
+using UnityEngine.Tilemaps;
 using TMPro;
 
 public class PlanetRenderer : MonoBehaviour
 {
-    public GameObject tilePrefab; // assign in inspector: a 1x1 SpriteRenderer prefab
-    public GameObject playerPrefab; // assign in inspector: a 1x1 SpriteRenderer prefab (e.g. white or marker)
-    public TMP_Text debugText; // optional: assign in inspector
+    public Tilemap tilemap;
+    public TileBase baseTile;
+    public TMP_Text debugText;
+    public GameObject playerMarkerPrefab;
 
     public PlanetMap planet;
-    private GameObject[,] tileObjects;
-    private GameObject playerObject;
 
-    private int playerX = 0;
-    private int playerY = 0;
+    private GameObject playerMarkerObj;
+    private int playerX = 0, playerY = 0;
+    private int xOffset = 0, yOffset = 0;
 
     void Start()
-{
-    planet = PlanetMap.LoadFromFile("planet_artifact.json");
-    tileObjects = new GameObject[planet.width, planet.height];
-
-    // Centering offset
-    float xOffset = -planet.width / 2f + 0.5f;
-    float yOffset = -planet.height / 2f + 0.5f;
-
-    // Render tiles
-    for (int x = 0; x < planet.width; x++)
     {
-        for (int y = 0; y < planet.height; y++)
+        planet = PlanetMap.LoadFromFile("planet_artifact.json");
+
+        tilemap.ClearAllTiles();
+
+        // Offsets to center the map
+        xOffset = -planet.width / 2;
+        yOffset = -planet.height / 2;
+
+        for (int x = 0; x < planet.width; x++)
         {
-            Vector3 pos = new Vector3(x + xOffset, y + yOffset, 0);
-            GameObject tileObj = Instantiate(tilePrefab, pos, Quaternion.identity, this.transform);
-            tileObj.GetComponent<SpriteRenderer>().color = planet.tiles[x, y].color;
-            tileObjects[x, y] = tileObj;
+            for (int y = 0; y < planet.height; y++)
+            {
+                var tile = planet.tiles[x, y];
+                var pos = new Vector3Int(x + xOffset, y + yOffset, 0);
+                tilemap.SetTile(pos, baseTile);
+                tilemap.SetTileFlags(pos, TileFlags.None);
+                tilemap.SetColor(pos, tile.color);
+            }
         }
+
+        // Start player in center
+        playerX = planet.width / 2;
+        playerY = planet.height / 2;
+
+        playerMarkerObj = Instantiate(playerMarkerPrefab);
+        UpdatePlayerMarker();
+        UpdateDebugText();
     }
-
-    playerObject = Instantiate(playerPrefab, new Vector3(playerX + xOffset, playerY + yOffset, -0.1f), Quaternion.identity, this.transform);
-    UpdateDebugText();
-}
-
 
     void Update()
     {
+        // Player movement: ARROW KEYS only
         int dx = 0, dy = 0;
-        if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow)) dy = 1;
-        if (Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.DownArrow)) dy = -1;
-        if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.LeftArrow)) dx = -1;
-        if (Input.GetKeyDown(KeyCode.D) || Input.GetKeyDown(KeyCode.RightArrow)) dx = 1;
+        if (Input.GetKeyDown(KeyCode.UpArrow)) dx = 1;
+        if (Input.GetKeyDown(KeyCode.DownArrow)) dx = -1;
+        if (Input.GetKeyDown(KeyCode.LeftArrow)) dy = -1;
+        if (Input.GetKeyDown(KeyCode.RightArrow)) dy = 1;
 
         if (dx != 0 || dy != 0)
-        {
             MovePlayer(dx, dy);
-        }
-
-        // Optional: hover info (e.g., with mouse)
     }
 
     void MovePlayer(int dx, int dy)
     {
-        int newX = (playerX + dx + planet.width) % planet.width;
-        int newY = (playerY + dy + planet.height) % planet.height;
-        playerX = newX;
-        playerY = newY;
-        playerObject.transform.position = new Vector3(playerX, playerY, -0.1f);
+        playerX = (playerX + dx + planet.width) % planet.width;
+        playerY = (playerY + dy + planet.height) % planet.height;
+        UpdatePlayerMarker();
         UpdateDebugText();
+    }
+
+    void UpdatePlayerMarker()
+    {
+        Vector3Int cell = new Vector3Int(playerX + xOffset, playerY + yOffset, 0);
+        Vector3 cellWorldPos = tilemap.GetCellCenterWorld(cell);
+        playerMarkerObj.transform.position = cellWorldPos + new Vector3(0, 0, -0.2f);
     }
 
     void UpdateDebugText()
@@ -73,7 +79,12 @@ public class PlanetRenderer : MonoBehaviour
         if (debugText != null)
         {
             PlanetTile tile = planet.tiles[playerX, playerY];
-            debugText.text = $"Planet: {planet.planetName}\nPos: ({playerX},{playerY})\nBiome: {tile.biome}";
+            debugText.text = $"Planet:\n{planet.planetName}\n" +
+                             $"Pos: ({playerX},{playerY})\n" +
+                             $"Biome:\n{tile.biome}\n" +
+                             $"Elev: {tile.elevation:F2}\n" +
+                             $"Moist: {tile.moisture:F2}\n" +
+                             $"Temp: {tile.temperature:F2}";
         }
     }
 }

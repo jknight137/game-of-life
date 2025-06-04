@@ -30,9 +30,12 @@ public class PlanetMap
                 var t = row[x];
                 string biome = (string)t["biome"];
                 string colorHex = (string)t["color"];
+                float elevation = t["elevation"] != null ? (float)t["elevation"] : 0f;
+                float moisture = t["moisture"] != null ? (float)t["moisture"] : 0f;
+                float temperature = t["temperature"] != null ? (float)t["temperature"] : 0f;
                 Color color;
                 ColorUtility.TryParseHtmlString(colorHex, out color);
-                tiles[x, y] = new PlanetTile(biome, color, x, y);
+                tiles[x, y] = new PlanetTile(biome, color, x, y, elevation, moisture, temperature);
             }
         }
         PlanetMap map = new PlanetMap
